@@ -1,0 +1,85 @@
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\csc.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\vbc.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\VBCSCompiler.exe
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.dll.config
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Antlr3.Runtime.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFramework.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFramework.SqlServer.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigrations.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Newtonsoft.Json.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Helpers.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Mvc.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Optimization.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Razor.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\WebGrease.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFramework.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFramework.SqlServer.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Helpers.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Mvc.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Optimization.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Razor.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Antlr3.Runtime.pdb
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Newtonsoft.Json.xml
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.dll
+C:\Users\lukas\Documents\Visual Studio 2015\Projects\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\csc.exe
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\vbc.exe
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\VBCSCompiler.exe
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.dll.config
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\EntityFrameworkViewMigration.Sample.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Antlr3.Runtime.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Newtonsoft.Json.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Helpers.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Mvc.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Optimization.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Razor.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\WebGrease.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Helpers.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Mvc.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Optimization.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.Razor.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Antlr3.Runtime.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Newtonsoft.Json.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.pdb

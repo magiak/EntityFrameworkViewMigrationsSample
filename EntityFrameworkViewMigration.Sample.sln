@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkViewMigration.Sample", "EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample.csproj", "{8505140C-091B-478C-AE4D-BBFF34F8918D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EntityFrameworkViewMigration.Database", "EntityFrameworkViewMigration.Database\EntityFrameworkViewMigration.Database.sqlproj", "{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkViewMigration.Models", "EntityFrameworkViewMigration.Models\EntityFrameworkViewMigration.Models.csproj", "{B532324E-12DD-459E-B5A6-F685D6FED5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8505140C-091B-478C-AE4D-BBFF34F8918D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8505140C-091B-478C-AE4D-BBFF34F8918D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8505140C-091B-478C-AE4D-BBFF34F8918D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8505140C-091B-478C-AE4D-BBFF34F8918D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FF65A6-ECD1-4E66-BFCD-4B9A9877520F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B532324E-12DD-459E-B5A6-F685D6FED5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B532324E-12DD-459E-B5A6-F685D6FED5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B532324E-12DD-459E-B5A6-F685D6FED5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B532324E-12DD-459E-B5A6-F685D6FED5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

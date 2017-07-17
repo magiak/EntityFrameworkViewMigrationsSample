@@ -1,0 +1,11 @@
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFrameworkViewMigration.Models.dll.config
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFrameworkViewMigration.Models.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFrameworkViewMigration.Models.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFramework.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFrameworkViewMigrations.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFramework.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.csprojResolveAssemblyReference.cache
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.dll
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.pdb
