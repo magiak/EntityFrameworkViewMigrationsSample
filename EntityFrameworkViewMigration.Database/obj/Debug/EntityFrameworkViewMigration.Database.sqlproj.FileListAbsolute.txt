@@ -3,3 +3,7 @@ C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkV
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\bin\Debug\EntityFrameworkViewMigration.Database.pdb
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\EntityFrameworkViewMigration.Database.dll
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\EntityFrameworkViewMigration.Database.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\Model.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\refactor.xml
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\postdeploy.sql
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\predeploy.sql

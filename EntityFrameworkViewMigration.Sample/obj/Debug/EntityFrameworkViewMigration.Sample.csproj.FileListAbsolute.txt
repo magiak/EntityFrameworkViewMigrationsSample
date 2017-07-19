@@ -80,6 +80,6 @@ C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkV
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\System.Web.WebPages.Razor.xml
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Antlr3.Runtime.pdb
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\bin\Newtonsoft.Json.xml
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.csprojResolveAssemblyReference.cache
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.dll
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.pdb
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Sample\obj\Debug\EntityFrameworkViewMigration.Sample.csprojResolveAssemblyReference.cache

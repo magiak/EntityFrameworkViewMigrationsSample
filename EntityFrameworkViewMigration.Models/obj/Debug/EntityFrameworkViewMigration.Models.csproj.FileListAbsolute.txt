@@ -15,5 +15,6 @@ C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkV
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\stdole.dll
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EnvDTE.xml
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\bin\Debug\EnvDTE80.xml
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.Migrations.sf.resources
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.Migrations.CreateTableSample.resources
 C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.csproj.GenerateResource.Cache
+C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Models\obj\Debug\EntityFrameworkViewMigration.Models.Migrations.Empty.resources
