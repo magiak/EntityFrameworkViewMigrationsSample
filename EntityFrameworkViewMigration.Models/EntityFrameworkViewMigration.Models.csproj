@@ -38,8 +38,27 @@
       <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="EntityFrameworkViewMigrations, Version=0.0.2.24698, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.2.24698\lib\net452\EntityFrameworkViewMigrations.dll</HintPath>
+    <Reference Include="EntityFrameworkViewMigrations, Version=0.0.4.1, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.4.1\lib\net452\EntityFrameworkViewMigrations.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFrameworkViewMigrations.PowerShellCommands, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.4.1\lib\net452\EntityFrameworkViewMigrations.PowerShellCommands.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\packages\VSSDK.DTE.7.0.4\lib\net20\envdte.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="envdte80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\packages\VSSDK.DTE.8.8.0.4\lib\net20\envdte80.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>..\packages\VSSDK.DTE.7.0.4\lib\net20\stdole.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
@@ -54,9 +73,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EntityFrameworkViewMigrationDbContext.cs" />
-    <Compile Include="Migrations\201707171245228_AddTableSample.cs" />
-    <Compile Include="Migrations\201707171245228_AddTableSample.Designer.cs">
-      <DependentUpon>201707171245228_AddTableSample.cs</DependentUpon>
+    <Compile Include="Migrations\201707190812220_sf.cs" />
+    <Compile Include="Migrations\201707190812220_sf.Designer.cs">
+      <DependentUpon>201707190812220_sf.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -67,8 +86,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201707171245228_AddTableSample.resx">
-      <DependentUpon>201707171245228_AddTableSample.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201707190812220_sf.resx">
+      <DependentUpon>201707190812220_sf.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

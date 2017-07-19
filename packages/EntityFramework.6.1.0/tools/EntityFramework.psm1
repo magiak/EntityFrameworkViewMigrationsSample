@@ -446,6 +446,9 @@ function Add-Migration
         [switch] $IgnoreChanges,
 		[string] $AppDomainBaseDirectory)
 
+        Write-Host $ProjectName
+
+
     $runner = New-MigrationsRunner $ProjectName $StartUpProjectName $null $ConfigurationTypeName $ConnectionStringName $ConnectionString $ConnectionProviderName $null $AppDomainBaseDirectory
 
     try
