@@ -38,12 +38,12 @@
       <HintPath>..\packages\EntityFramework.6.1.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="EntityFrameworkViewMigrations, Version=0.0.5.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.5\lib\net452\EntityFrameworkViewMigrations.dll</HintPath>
+    <Reference Include="EntityFrameworkViewMigrations, Version=0.0.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.6\lib\net452\EntityFrameworkViewMigrations.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="EntityFrameworkViewMigrations.PowerShellCommands, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.5\lib\net452\EntityFrameworkViewMigrations.PowerShellCommands.dll</HintPath>
+      <HintPath>..\packages\EntityFrameworkViewMigrations.0.0.6\lib\net452\EntityFrameworkViewMigrations.PowerShellCommands.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="envdte, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
@@ -81,6 +81,10 @@
     <Compile Include="Migrations\201707191410454_Empty.Designer.cs">
       <DependentUpon>201707191410454_Empty.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201707201655334_CreateTableSampleView.cs" />
+    <Compile Include="Migrations\201707201655334_CreateTableSampleView.Designer.cs">
+      <DependentUpon>201707201655334_CreateTableSampleView.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TableSample.cs" />
@@ -95,6 +99,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201707191410454_Empty.resx">
       <DependentUpon>201707191410454_Empty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201707201655334_CreateTableSampleView.resx">
+      <DependentUpon>201707201655334_CreateTableSampleView.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

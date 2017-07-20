@@ -58,9 +58,21 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Seed" />
+    <Folder Include="Migrations" />
+    <Folder Include="dbo\" />
+    <Folder Include="dbo\Tables\" />
+    <Folder Include="dbo\Views\" />
+    <Folder Include="Migrations\201707201655334_CreateTableSampleView" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Seed\Seed.sql" />
     <None Include="Seed\TableSample.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\TableSamples.sql" />
+    <Build Include="dbo\Tables\__MigrationHistory.sql" />
+    <None Include="dbo\Views\TableSampleView.sql" />
+    <None Include="Migrations\201707201655334_CreateTableSampleView\TableSampleViewUp.sql" />
+    <None Include="Migrations\201707201655334_CreateTableSampleView\TableSampleViewDown.sql" />
   </ItemGroup>
 </Project>

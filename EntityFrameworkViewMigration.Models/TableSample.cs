@@ -13,7 +13,7 @@ namespace EntityFrameworkViewMigration.Models
     public class TableSampleDbConfiguration : EntityTypeConfiguration<TableSample>
     {
         /// <summary>
-        /// Initializes a new instance of the <see cref="EffortDbConfiguration"/> class.
+        /// Initializes a new instance of the <see cref="TableSampleDbConfiguration"/> class.
         /// </summary>
         public TableSampleDbConfiguration()
         {
