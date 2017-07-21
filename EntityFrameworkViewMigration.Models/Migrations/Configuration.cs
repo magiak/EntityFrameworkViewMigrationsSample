@@ -6,7 +6,7 @@ namespace EntityFrameworkViewMigration.Models.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            this.AutomaticMigrationsEnabled = false;
         }
 
         protected override void Seed(EntityFrameworkViewMigrationDbContext context)

@@ -1,5 +1,0 @@
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\bin\Debug\EntityFrameworkViewMigration.Database.dacpac
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\bin\Debug\EntityFrameworkViewMigration.Database.dll
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\bin\Debug\EntityFrameworkViewMigration.Database.pdb
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\EntityFrameworkViewMigration.Database.dll
-C:\Users\lukas\Source\Repos\EntityFrameworkViewMigration.Sample\EntityFrameworkViewMigration.Database\obj\Debug\EntityFrameworkViewMigration.Database.pdb

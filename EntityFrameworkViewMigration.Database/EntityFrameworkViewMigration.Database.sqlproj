@@ -63,6 +63,7 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Views\" />
     <Folder Include="Migrations\201707201655334_CreateTableSampleView" />
+    <Folder Include="Migrations\201707211623029_AlterTableSampleView\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Seed\Seed.sql" />
@@ -74,5 +75,7 @@
     <None Include="dbo\Views\TableSampleView.sql" />
     <None Include="Migrations\201707201655334_CreateTableSampleView\TableSampleViewUp.sql" />
     <None Include="Migrations\201707201655334_CreateTableSampleView\TableSampleViewDown.sql" />
+    <None Include="Migrations\201707211623029_AlterTableSampleView\TableSampleViewUp.sql" />
+    <None Include="Migrations\201707211623029_AlterTableSampleView\TableSampleViewDown.sql" />
   </ItemGroup>
 </Project>
